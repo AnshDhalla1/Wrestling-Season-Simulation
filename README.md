@@ -10,22 +10,22 @@ This project simulates an entire wrestling season, including a conference tourna
 4. Team and individual champions determination.
 
 ## Installation
-Clone this repository to your local machine.
-Ensure all dependencies listed in WrestlingTourny.depend are installed on your system.
-Compile the project using the provided WrestlingTournament.cpp file.
+- Clone this repository to your local machine.
+- Ensure all dependencies listed in WrestlingTourny.depend are installed on your system.
+- Compile the project using the provided WrestlingTournament.cpp file.
 
 ## Usage
-Run the compiled program to start the simulation.
-Follow the on-screen prompts to navigate through the season.
+- Run the compiled program to start the simulation.
+- Follow the on-screen prompts to navigate through the season.
 
 ## Contributing
 We welcome contributions! If you're interested in improving the wrestling season simulation, please:
 
-Fork the repository.
-Create a new branch for your feature.
-Commit your changes.
-Push to the branch.
-Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Commit your changes.
+4. Push to the branch.
+5. Submit a pull request.
 
 ## Dependencies
 See WrestlingTourny.depend for a list of dependencies required to run this project.

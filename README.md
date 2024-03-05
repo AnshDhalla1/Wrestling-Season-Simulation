@@ -4,15 +4,15 @@
 This project simulates an entire wrestling season, including a conference tournament that determines individual and team champions. It models a conference of eight schools, each fielding teams with wrestlers in various weight classes. The simulation includes dual meets and a seeded tournament, calculating match results based on wrestlers' ability scores.
 
 ## Features
-1. Simulation of dual meets and tournaments across a season.
-2. Wrestler performance based on ability scores.
-3. Tournament seeding based on head-to-head results and winning percentages.
-4. Team and individual champions determination.
+- Simulation of dual meets and tournaments across a season.
+- Wrestler performance based on ability scores.
+- Tournament seeding based on head-to-head results and winning percentages.
+- Team and individual champions determination.
 
 ## Installation
-- Clone this repository to your local machine.
-- Ensure all dependencies listed in WrestlingTourny.depend are installed on your system.
-- Compile the project using the provided WrestlingTournament.cpp file.
+1. Clone this repository to your local machine.
+2. Ensure all dependencies listed in WrestlingTourny.depend are installed on your system.
+3. Compile the project using the provided WrestlingTournament.cpp file.
 
 ## Usage
 - Run the compiled program to start the simulation.
